@@ -1,0 +1,8 @@
+*.png
+*.class
+*.exe
+out/
+EX1/tests/got*.txt
+EX1/tests/big.txt
+EX5/tests/big.txt
+EX2/main.go
