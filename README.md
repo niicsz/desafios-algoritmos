@@ -1,6 +1,6 @@
-# Soluções CodeVita
+# Desafios de Algoritmos
 
-Soluções em **Java 8** para 6 problemas de programação competitiva. Cada pasta tem um `Main.java` (classe `Main`, sem `package`) e uma pasta `tests/` com as entradas (`inN.txt`) e saídas esperadas (`outN.txt`) dos exemplos do enunciado.
+Soluções em **Java 8** para 6 desafios de algoritmos. Cada pasta tem um `Main.java` (classe `Main`, sem `package`) e uma pasta `tests/` com as entradas (`inN.txt`) e saídas esperadas (`outN.txt`) dos exemplos do enunciado.
 
 ```bash
 cd EX1
